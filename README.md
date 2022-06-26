@@ -6,7 +6,7 @@ other things related to Computer Science in general.
 - I don't yet have much experience, but I'm always trying my best to get
 better.
 
-- I'm currently interested in working on extending the [canvas library](https://github.com/3O11/canvas).
+- I plan to work on extending the [canvas library](https://github.com/3O11/canvas) in my free time.
 The repository contains (or will contain) a list of my plans in the README.
 
 - Here is a look at the languages that I use most often:
